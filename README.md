@@ -36,8 +36,5 @@ State management using Provider
 Ready for integration with backend systems
 
 🎬 Demo
-You can view a demo of the app by watching the video located in the demo/ folder:
+You can view a demo of the app by watching the video located in the project demo/ folder:
 
-bash
-Copy
-Edit
